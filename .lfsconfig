@@ -1,2 +1,0 @@
-[lfs]
-   url = "http://admin:password@192.168.99.100:8081/artifactory/api/lfs/lfs-repo"
